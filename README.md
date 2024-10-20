@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alamzaki currently a 3rd year undergrad at IIT Madras 
+- 👋 Hi, I’m Zaki Alam currently a 3rd year undergrad at IIT Madras 
 - 👀 I’m interested in computational neuroscience field and much more :)
 - 🌱 I’m currently learning everything which feels interesting to me!
 - 💞️ I’m looking to collaborate on Brain Machine Interface , bioinformatics & quantum models etc 
